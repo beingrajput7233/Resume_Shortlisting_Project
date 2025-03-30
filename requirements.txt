@@ -1,0 +1,15 @@
+Flask
+werkzeug
+nltk
+pandas
+aspose-words
+matplotlib
+numpy
+collection
+shortuuid
+flask_cors
+openpyxl
+seaborn
+wordcloud
+scikit-learn
+Gunicorn
