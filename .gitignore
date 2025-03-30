@@ -1,0 +1,10 @@
+.env
+/resumeenv
+/__pycache__
+/uploads
+/client/node_modules
+/client/build
+model.pkl
+tfidf.pkl
+/output
+/test
